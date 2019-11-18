@@ -1,6 +1,6 @@
 # 5Cuber
 An original 5x5 Rubik's cube solving robot powered by Python, OpenCV, and Lego Mindstorms
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/yKl7nPCtdc0/0.jpg)](http://www.youtube.com/watch?v=yKl7nPCtdc0 "5Cuber")
+[![IMAGE ALT TEXT](https://i.imgur.com/TZVrRgC.png)](http://www.youtube.com/watch?v=yKl7nPCtdc0 "5Cuber")
 
 ## How it works
   * All six sides of the cube are scanned with OpenCV image processing, which identifies the colours of the tiles
